@@ -1,0 +1,10 @@
+[Wed Jun 08 12:25:47 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Wed Jun 08 12:25:50 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Wed Jun 08 13:06:26 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Wed Jun 08 13:06:41 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Wed Jun 08 13:15:47 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Wed Jun 08 13:16:03 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Thu Jun 09 06:07:05 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Thu Jun 09 06:07:19 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Fri Jun 10 11:32:26 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Fri Jun 10 11:32:39 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?

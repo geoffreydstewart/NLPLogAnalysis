@@ -1,0 +1,3 @@
+[Sun Oct 23 04:04:05 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Tue Oct 25 10:09:36 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Tue Oct 25 10:09:50 2005] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?

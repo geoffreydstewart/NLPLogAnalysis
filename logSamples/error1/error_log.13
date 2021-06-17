@@ -1,0 +1,221 @@
+[Sun Oct 23 04:04:04 2005] [notice] Digest: generating secret for digest authentication ...
+[Sun Oct 23 04:04:04 2005] [notice] Digest: done
+[Sun Oct 23 04:04:04 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Sun Oct 23 04:04:04 2005] [notice] LDAP: SSL support unavailable
+[Sun Oct 23 04:04:04 2005] [error] env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)
+[Sun Oct 23 04:04:04 2005] [error] config.update(): Can't create channel.jni:jni
+[Sun Oct 23 04:04:04 2005] [error] env.createBean2(): Factory error creating vm: ( vm, )
+[Sun Oct 23 04:04:04 2005] [error] config.update(): Can't create vm:
+[Sun Oct 23 04:04:04 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Oct 23 04:04:04 2005] [error] config.update(): Can't create worker.jni:onStartup
+[Sun Oct 23 04:04:04 2005] [error] env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+[Sun Oct 23 04:04:04 2005] [error] config.update(): Can't create worker.jni:onShutdown
+[Sun Oct 23 04:04:05 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+[Sun Oct 23 04:04:05 2005] [notice] mod_security/1.9dev2 configured
+[Sun Oct 23 04:04:05 2005] [notice] Apache/2.0.49 (Fedora) configured -- resuming normal operations
+[Sun Oct 23 04:04:05 2005] [error] jk2_init() Can't find child 17476 in scoreboard
+[Sun Oct 23 04:04:05 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:05 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:05 2005] [error] jk2_init() Can't find child 17477 in scoreboard
+[Sun Oct 23 04:04:05 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:05 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:05 2005] [error] jk2_init() Can't find child 17478 in scoreboard
+[Sun Oct 23 04:04:05 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:05 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:05 2005] [error] jk2_init() Can't find child 17479 in scoreboard
+[Sun Oct 23 04:04:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:06 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:06 2005] [notice] jk2_init() Found child 17480 in scoreboard slot 4
+[Sun Oct 23 04:04:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:06 2005] [error] mod_jk child workerEnv in error state 3
+[Sun Oct 23 04:04:06 2005] [error] jk2_init() Can't find child 17481 in scoreboard
+[Sun Oct 23 04:04:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:06 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:06 2005] [error] jk2_init() Can't find child 17482 in scoreboard
+[Sun Oct 23 04:04:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:06 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 04:04:06 2005] [error] jk2_init() Can't find child 17483 in scoreboard
+[Sun Oct 23 04:04:06 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 23 04:04:06 2005] [error] mod_jk child init 1 -2
+[Sun Oct 23 05:12:39 2005] [error] [client 222.166.160.106] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 05:57:52 2005] [error] [client 4.231.87.176] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 07:44:26 2005] [error] [client 221.146.198.58] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 09:37:36 2005] [error] [client 66.14.226.101] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 10:52:21 2005] [error] [client 67.43.20.106] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 11:59:33 2005] [error] [client 211.139.12.217] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 13:13:07 2005] [error] [client 220.163.201.11] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 17:16:58 2005] [error] [client 24.234.214.140] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 17:37:32 2005] [error] [client 61.10.7.49] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 18:28:57 2005] [error] [client 211.58.41.65] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 22:21:21 2005] [error] [client 61.151.251.79] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 23:00:48 2005] [error] [client 24.181.41.207] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 23:38:58 2005] [error] [client 221.11.140.141] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 00:38:58 2005] [error] [client 68.238.129.156] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 02:10:34 2005] [error] [client 206.221.247.148] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 02:12:14 2005] [error] [client 218.226.241.143] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 03:25:23 2005] [error] [client 219.151.197.203] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 03:49:45 2005] [error] [client 70.191.53.31] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 04:26:33 2005] [error] [client 61.10.7.13] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 04:40:57 2005] [error] [client 203.186.238.238] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 05:48:54 2005] [error] [client 60.0.208.135] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 06:14:17 2005] [error] [client 209.195.47.2] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 06:35:15 2005] [error] [client 218.6.160.37] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 07:17:05 2005] [error] [client 24.34.89.119] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 07:57:46 2005] [error] [client 24.201.83.39] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 24 09:11:09 2005] [error] [client 198.180.132.39] File does not exist: /var/www/html/_vti_bin
+[Mon Oct 24 09:11:12 2005] [error] [client 198.180.132.39] request failed: URI too long (longer than 8190)
+[Mon Oct 24 09:59:27 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:27 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:28 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:29 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:29 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:30 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:30 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:31 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:32 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:32 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:33 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:33 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:34 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:35 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:35 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:36 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:36 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:37 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:38 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:38 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:39 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 09:59:39 2005] [error] [client 68.143.24.26] File does not exist: /var/www/html/phpmyadmin
+[Mon Oct 24 11:16:54 2005] [error] [client 24.195.248.187] Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Oct 24 13:03:50 2005] [error] jk2_init() Can't find child 25352 in scoreboard
+[Mon Oct 24 13:03:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Oct 24 13:03:50 2005] [error] mod_jk child init 1 -2
+script not found or unable to stat
+[Mon Oct 24 13:03:51 2005] [notice] jk2_init() Found child 25353 in scoreboard slot 9
+[Mon Oct 24 13:03:51 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Oct 24 13:03:51 2005] [error] mod_jk child workerEnv in error state 3
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Oct 24 13:03:52 2005] [notice] jk2_init() Found child 25354 in scoreboard slot 10
+[Mon Oct 24 13:03:52 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Oct 24 13:03:52 2005] [error] mod_jk child workerEnv in error state 2
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Oct 24 13:03:53 2005] [error] jk2_init() Can't find child 25355 in scoreboard
+[Mon Oct 24 13:03:53 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Mon Oct 24 13:03:53 2005] [error] mod_jk child init 1 -2
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Tue Oct 25 10:06:16 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:16 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:16 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [warn] child process 17476 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17477 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17478 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17479 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17480 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17481 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17482 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17483 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25352 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25353 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25354 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25355 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [notice] mod_jk2 Shutting down
+[Tue Oct 25 10:06:17 2005] [warn] child process 17476 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17477 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17478 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17479 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17480 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17481 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17482 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 17483 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25352 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25353 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25354 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:17 2005] [warn] child process 25355 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17476 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17477 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17478 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17479 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17480 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17481 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17482 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 17483 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 25352 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 25353 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 25354 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:06:18 2005] [warn] child process 25355 still did not exit, sending a SIGTERM
+[Tue Oct 25 10:09:35 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Tue Oct 25 10:09:35 2005] [notice] LDAP: SSL support unavailable
+[Tue Oct 25 10:09:36 2005] [notice] suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Oct 25 10:09:37 2005] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 25 10:09:37 2005] [notice] Digest: done
+[Tue Oct 25 10:09:37 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Tue Oct 25 10:09:37 2005] [notice] LDAP: SSL support unavailable
+[Tue Oct 25 10:09:37 2005] [error] env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)
+[Tue Oct 25 10:09:37 2005] [error] config.update(): Can't create channel.jni:jni
+[Tue Oct 25 10:09:37 2005] [error] env.createBean2(): Factory error creating vm: ( vm, )
+[Tue Oct 25 10:09:37 2005] [error] config.update(): Can't create vm:
+[Tue Oct 25 10:09:37 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Tue Oct 25 10:09:37 2005] [error] config.update(): Can't create worker.jni:onStartup
+[Tue Oct 25 10:09:37 2005] [error] env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+[Tue Oct 25 10:09:37 2005] [error] config.update(): Can't create worker.jni:onShutdown
+[Tue Oct 25 10:09:45 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+[Tue Oct 25 10:09:50 2005] [notice] mod_security/1.9dev2 configured
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2289 in scoreboard
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2290 in scoreboard
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2291 in scoreboard
+[Tue Oct 25 10:09:50 2005] [notice] jk2_init() Found child 2292 in scoreboard slot 3
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2293 in scoreboard
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2294 in scoreboard
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2295 in scoreboard
+[Tue Oct 25 10:09:50 2005] [error] jk2_init() Can't find child 2296 in scoreboard
+[Tue Oct 25 10:09:50 2005] [notice] Apache/2.0.49 (Fedora) configured -- resuming normal operations
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Tue Oct 25 10:09:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Tue Oct 25 10:09:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:36 2005] [notice] Graceful restart requested, doing restart
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:37 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 30 04:04:38 2005] [notice] mod_jk2 Shutting down

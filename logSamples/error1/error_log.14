@@ -1,0 +1,215 @@
+[Sun Oct 16 04:14:40 2005] [notice] Digest: generating secret for digest authentication ...
+[Sun Oct 16 04:14:40 2005] [notice] Digest: done
+[Sun Oct 16 04:14:40 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Sun Oct 16 04:14:40 2005] [notice] LDAP: SSL support unavailable
+[Sun Oct 16 04:14:44 2005] [error] env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)
+[Sun Oct 16 04:14:44 2005] [error] config.update(): Can't create channel.jni:jni
+[Sun Oct 16 04:14:44 2005] [error] env.createBean2(): Factory error creating vm: ( vm, )
+[Sun Oct 16 04:14:44 2005] [error] config.update(): Can't create vm:
+[Sun Oct 16 04:14:44 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Oct 16 04:14:44 2005] [error] config.update(): Can't create worker.jni:onStartup
+[Sun Oct 16 04:14:44 2005] [error] env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+[Sun Oct 16 04:14:44 2005] [error] config.update(): Can't create worker.jni:onShutdown
+[Sun Oct 16 04:15:16 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+[Sun Oct 16 04:15:24 2005] [notice] mod_security/1.9dev2 configured
+[Sun Oct 16 04:15:24 2005] [notice] Apache/2.0.49 (Fedora) configured -- resuming normal operations
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15728 in scoreboard slot 0
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15733 in scoreboard slot 5
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15732 in scoreboard slot 4
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15735 in scoreboard slot 7
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15734 in scoreboard slot 6
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15731 in scoreboard slot 3
+[Sun Oct 16 04:15:24 2005] [notice] jk2_init() Found child 15730 in scoreboard slot 2
+[Sun Oct 16 04:15:25 2005] [notice] jk2_init() Found child 15729 in scoreboard slot 1
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child init 1 0
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:26 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 16 04:15:26 2005] [error] mod_jk child workerEnv in error state 2
+[Sun Oct 16 04:15:28 2005] [error] [client 211.98.18.94] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 06:05:57 2005] [error] [client 67.43.20.68] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 06:15:16 2005] [error] [client 208.63.124.4] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 06:19:35 2005] [error] [client 69.49.135.32] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 07:07:43 2005] [error] [client 221.7.247.218] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 07:42:06 2005] [error] [client 71.113.254.212] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 07:57:02 2005] [error] [client 203.186.238.190] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 09:51:44 2005] [error] [client 24.218.143.217] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 11:36:59 2005] [error] [client 69.219.70.214] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 13:32:40 2005] [error] [client 172.199.116.204] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 13:56:10 2005] [error] [client 70.228.92.134] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 16:07:14 2005] [error] [client 69.107.9.38] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 17:56:25 2005] [error] [client 218.6.144.64] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 18:45:20 2005] [error] [client 202.82.153.226] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 19:39:42 2005] [error] [client 69.154.162.193] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 19:47:39 2005] [error] [client 68.186.185.84] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 20:17:08 2005] [error] [client 61.218.154.118] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 20:29:41 2005] [error] [client 219.132.236.100] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 20:50:29 2005] [error] [client 222.76.31.116] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 21:03:09 2005] [error] [client 68.50.7.237] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 22:54:48 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/scripts/root.exe
+[Sun Oct 16 22:54:59 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/MSADC
+[Sun Oct 16 22:55:02 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/c
+[Sun Oct 16 22:55:09 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/d
+[Sun Oct 16 22:55:14 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/scripts/..%5c..
+[Sun Oct 16 22:55:24 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/_vti_bin
+[Sun Oct 16 22:55:47 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/_mem_bin
+[Sun Oct 16 22:55:49 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/msadc
+[Sun Oct 16 22:55:50 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/scripts/..\xc1\x1c..
+[Sun Oct 16 22:56:08 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/scripts/..\xc0\xaf..
+[Sun Oct 16 22:56:18 2005] [error] [client 218.10.61.141] File does not exist: /var/www/html/scripts/..\xc1\x9c..
+[Sun Oct 16 23:18:40 2005] [error] [client 24.234.89.37] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 23:32:28 2005] [error] [client 71.110.97.140] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 16 23:59:55 2005] [error] [client 61.10.7.5] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 00:09:44 2005] [error] [client 68.153.128.195] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 01:41:11 2005] [error] [client 218.189.253.218] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 02:20:47 2005] [error] [client 203.186.238.135] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 02:21:07 2005] [error] [client 65.34.154.23] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 03:08:54 2005] [error] [client 61.10.7.191] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 03:37:36 2005] [error] [client 69.136.53.229] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 04:03:02 2005] [error] [client 61.243.77.84] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 08:26:10 2005] [error] [client 60.238.81.220] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 09:42:53 2005] [error] [client 192.195.225.6] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 10:07:36 2005] [error] [client 84.92.64.33] Directory index forbidden by rule: /var/www/html/
+[Mon Oct 17 10:38:44 2005] [error] [client 24.20.92.65] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 06:01:26 2005] [error] [client 203.186.238.140] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 06:57:25 2005] [error] [client 65.166.118.235] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 07:47:46 2005] [error] [client 61.235.143.91] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 08:06:24 2005] [error] [client 159.148.146.134] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 08:51:58 2005] [error] [client 66.64.221.234] File does not exist: /var/www/html/scripts/nsiislog.dll
+[Thu Oct 20 08:58:36 2005] [error] [client 67.104.84.66] File does not exist: /var/www/html/NULL.printer
+[Thu Oct 20 11:31:15 2005] [error] [client 81.215.229.246] File does not exist: /var/www/html/scripts/..%5c%5c..
+[Thu Oct 20 12:05:11 2005] [error] [client 199.88.139.200] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 12:12:40 2005] [error] [client 59.163.68.130] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 13:59:18 2005] [error] [client 196.202.66.182] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 15:13:32 2005] [error] [client 66.134.87.154] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 15:33:33 2005] [error] [client 24.87.128.103] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 16:05:35 2005] [error] [client 24.87.15.214] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 16:40:40 2005] [error] [client 12.29.238.34] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 16:47:35 2005] [error] [client 71.111.17.119] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 17:34:24 2005] [error] [client 218.6.144.64] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 18:20:39 2005] [error] [client 68.185.197.9] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 18:29:15 2005] [error] [client 219.115.202.41] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:46:59 2005] [notice] jk2_init() Found child 9231 in scoreboard slot 8
+[Thu Oct 20 18:47:00 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Oct 20 18:47:00 2005] [error] mod_jk child workerEnv in error state 2
+[Thu Oct 20 18:47:02 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:47:02 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:47:02 2005] [error] [client 213.219.16.66] File does not exist: /var/www/html/phpmyadmin
+[Thu Oct 20 18:48:33 2005] [error] [client 218.52.97.170] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 19:37:20 2005] [error] [client 216.150.210.194] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 20:14:34 2005] [error] [client 202.105.112.33] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 21:06:58 2005] [error] [client 199.72.189.34] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 21:30:51 2005] [error] [client 222.166.160.82] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 22:12:09 2005] [error] [client 218.19.212.109] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 23:02:18 2005] [error] [client 203.70.5.163] Directory index forbidden by rule: /var/www/html/
+[Thu Oct 20 23:30:00 2005] [error] [client 168.170.203.18] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 02:37:50 2005] [error] [client 210.51.38.76] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 04:35:41 2005] [error] [client 65.184.162.133] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 05:42:38 2005] [error] [client 203.186.238.190] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 07:34:16 2005] [error] [client 69.239.61.132] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 08:51:50 2005] [error] [client 222.237.53.118] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 09:52:53 2005] [error] [client 24.25.151.166] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 11:24:57 2005] [error] [client 222.166.160.172] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 12:08:21 2005] [error] [client 71.103.83.238] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 12:17:27 2005] [error] [client 221.223.26.90] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 13:30:08 2005] [error] [client 67.114.108.127] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 14:35:00 2005] [error] [client 64.251.55.227] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 16:28:41 2005] [error] [client 211.21.3.247] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 17:39:51 2005] [error] [client 71.112.183.65] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 18:10:03 2005] [error] [client 69.250.138.51] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 19:39:57 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/scripts/root.exe
+[Fri Oct 21 19:39:57 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/MSADC
+[Fri Oct 21 19:39:58 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/c
+[Fri Oct 21 19:39:58 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/d
+[Fri Oct 21 19:39:58 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/scripts/..%5c..
+[Fri Oct 21 19:39:58 2005] [error] [client 65.69.87.247] File does not exist: /var/www/html/_vti_bin
+[Fri Oct 21 19:40:32 2005] [error] [client 203.186.238.239] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 21:55:47 2005] [error] [client 69.92.253.173] Directory index forbidden by rule: /var/www/html/
+[Fri Oct 21 22:18:33 2005] [error] [client 207.71.220.100] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 01:06:43 2005] [error] [client 61.34.169.22] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 05:37:34 2005] [error] [client 202.81.173.39] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 07:06:05 2005] [error] [client 207.235.65.35] File does not exist: /var/www/html/cacti
+[Sat Oct 22 08:06:19 2005] [error] [client 203.186.238.251] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 09:27:31 2005] [error] [client 222.166.160.160] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 11:13:37 2005] [error] [client 71.114.149.54] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 11:28:10 2005] [error] [client 211.96.183.240] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 11:53:55 2005] [error] [client 24.131.71.90] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 17:47:55 2005] [error] [client 24.6.247.220] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 17:57:27 2005] [error] [client 139.55.67.193] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:31 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:32 2005] [notice] jk2_init() Found child 15985 in scoreboard slot 9
+[Sat Oct 22 18:07:32 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sat Oct 22 18:07:32 2005] [error] mod_jk child workerEnv in error state 2
+[Sat Oct 22 18:07:34 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:07:34 2005] [error] [client 213.241.46.213] File does not exist: /var/www/html/phpmyadmin
+[Sat Oct 22 18:34:23 2005] [error] [client 216.104.137.150] Directory index forbidden by rule: /var/www/html/
+[Sat Oct 22 19:55:38 2005] [error] [client 4.227.32.220] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 00:39:53 2005] [error] [client 218.189.253.218] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 01:19:18 2005] [error] [client 82.194.62.23] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 02:11:08 2005] [error] [client 24.77.72.146] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 02:53:06 2005] [error] [client 24.83.193.109] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 03:28:43 2005] [error] [client 68.118.83.140] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 03:49:49 2005] [error] [client 222.191.158.93] Directory index forbidden by rule: /var/www/html/
+[Sun Oct 23 04:03:40 2005] [notice] Graceful restart requested, doing restart
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:40 2005] [notice] mod_jk2 Shutting down
+[Sun Oct 23 04:03:41 2005] [notice] mod_jk2 Shutting down

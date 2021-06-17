@@ -1,0 +1,4 @@
+[Sun Jan 22 04:11:03 2006] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Thu Jan 26 12:23:06 2006] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Thu Jan 26 12:23:22 2006] [warn] RSA server certificate CommonName (CN) `localhost.localdomain' does NOT match server name!?
+[Mon Feb 06 05:23:57 2006] [error] [client 196.36.130.36] Directory index forbidden by rule: /var/www/html/

@@ -1,0 +1,706 @@
+[Sun Oct 30 04:04:47 2005] [notice] Digest: generating secret for digest authentication ...
+[Sun Oct 30 04:04:47 2005] [notice] Digest: done
+[Sun Oct 30 04:04:47 2005] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Sun Oct 30 04:04:47 2005] [notice] LDAP: SSL support unavailable
+[Sun Oct 30 04:04:47 2005] [error] env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)
+[Sun Oct 30 04:04:47 2005] [error] config.update(): Can't create channel.jni:jni
+[Sun Oct 30 04:04:47 2005] [error] env.createBean2(): Factory error creating vm: ( vm, )
+[Sun Oct 30 04:04:47 2005] [error] config.update(): Can't create vm:
+[Sun Oct 30 04:04:47 2005] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Oct 30 04:04:47 2005] [error] config.update(): Can't create worker.jni:onStartup
+[Sun Oct 30 04:04:47 2005] [error] env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+[Sun Oct 30 04:04:47 2005] [error] config.update(): Can't create worker.jni:onShutdown
+[Sun Oct 30 04:04:49 2005] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+[Sun Oct 30 04:04:50 2005] [notice] mod_security/1.9dev2 configured
+[Sun Oct 30 04:04:50 2005] [notice] Apache/2.0.49 (Fedora) configured -- resuming normal operations
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17650 in scoreboard
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17651 in scoreboard
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17652 in scoreboard
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17653 in scoreboard
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17655 in scoreboard
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17656 in scoreboard
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [error] jk2_init() Can't find child 17657 in scoreboard
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Oct 30 04:04:50 2005] [error] mod_jk child init 1 -2
+[Sun Oct 30 04:04:50 2005] [notice] jk2_init() Found child 17654 in scoreboard slot 4
+[Sun Oct 30 04:04:50 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 10:10:40 2005] [error] [client 68.191.143.244] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 12:38:40 2005] [error] [client 217.41.59.76] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 14:39:23 2005] [error] [client 67.78.177.85] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 14:46:15 2005] [error] [client 211.22.143.2] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 15:19:57 2005] [error] [client 203.186.238.129] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 16:16:27 2005] [notice] jk2_init() Found child 5649 in scoreboard slot 8
+[Thu Nov 03 16:16:27 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:27 2005] [notice] jk2_init() Found child 5650 in scoreboard slot 9
+[Thu Nov 03 16:16:28 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:29 2005] [error] jk2_init() Can't find child 5651 in scoreboard
+[Thu Nov 03 16:16:29 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:29 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:30 2005] [error] jk2_init() Can't find child 5652 in scoreboard
+[Thu Nov 03 16:16:30 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:30 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:31 2005] [notice] jk2_init() Found child 5653 in scoreboard slot 12
+[Thu Nov 03 16:16:31 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:32 2005] [notice] jk2_init() Found child 5654 in scoreboard slot 13
+[Thu Nov 03 16:16:32 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:33 2005] [error] jk2_init() Can't find child 5655 in scoreboard
+[Thu Nov 03 16:16:33 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:33 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:34 2005] [error] jk2_init() Can't find child 5656 in scoreboard
+[Thu Nov 03 16:16:34 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:34 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:35 2005] [error] jk2_init() Can't find child 5657 in scoreboard
+[Thu Nov 03 16:16:35 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:35 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:36 2005] [error] jk2_init() Can't find child 5658 in scoreboard
+[Thu Nov 03 16:16:36 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:36 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:37 2005] [notice] jk2_init() Found child 5659 in scoreboard slot 18
+[Thu Nov 03 16:16:37 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:38 2005] [error] jk2_init() Can't find child 5661 in scoreboard
+[Thu Nov 03 16:16:38 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:38 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:38 2005] [notice] jk2_init() Found child 5660 in scoreboard slot 19
+[Thu Nov 03 16:16:38 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:39 2005] [error] jk2_init() Can't find child 5663 in scoreboard
+[Thu Nov 03 16:16:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:39 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:39 2005] [error] jk2_init() Can't find child 5664 in scoreboard
+[Thu Nov 03 16:16:39 2005] [error] jk2_init() Can't find child 5662 in scoreboard
+[Thu Nov 03 16:16:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:39 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:39 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:39 2005] [notice] jk2_init() Found child 5665 in scoreboard slot 24
+[Thu Nov 03 16:16:39 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5666 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5667 in scoreboard
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5668 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5669 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5671 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5672 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [error] jk2_init() Can't find child 5673 in scoreboard
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [notice] jk2_init() Found child 5670 in scoreboard slot 29
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:40 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:40 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5674 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5675 in scoreboard slot 34
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5677 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5676 in scoreboard slot 35
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5678 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5679 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5680 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5681 in scoreboard slot 40
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5684 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5685 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5683 in scoreboard slot 42
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5682 in scoreboard slot 41
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5686 in scoreboard slot 45
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5688 in scoreboard
+script not found or unable to stat
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [error] jk2_init() Can't find child 5689 in scoreboard
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Thu Nov 03 16:16:41 2005] [error] mod_jk child init 1 -2
+[Thu Nov 03 16:16:41 2005] [notice] jk2_init() Found child 5687 in scoreboard slot 46
+[Thu Nov 03 16:16:41 2005] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Thu Nov 03 16:16:45 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:50 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:50 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:50 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:50 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:50 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 16:16:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:52 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:55 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:55 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:55 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:55 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:55 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 16:16:56 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:56 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:56 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:16:57 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:00 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:00 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:00 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:00 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:00 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:01 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:01 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:01 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:02 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:05 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:05 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:05 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:05 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:05 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/drupal
+[Thu Nov 03 16:17:06 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:06 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:06 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:07 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:10 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:10 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:10 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:10 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:10 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/community
+[Thu Nov 03 16:17:11 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:11 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:11 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:12 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:13 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:15 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:15 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:15 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:15 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:15 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:16 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:17 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:17 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:17 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:17 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:18 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:20 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:20 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:20 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:20 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:20 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogs
+[Thu Nov 03 16:17:21 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:22 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:22 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:22 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:22 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:23 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:26 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:26 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:26 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:26 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:26 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blog
+[Thu Nov 03 16:17:27 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:27 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:27 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:27 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:27 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:28 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:31 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:31 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:31 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:31 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:31 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 16:17:32 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:32 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:32 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:33 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:36 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:36 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:36 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:36 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:36 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2
+[Thu Nov 03 16:17:37 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:37 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:37 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:38 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:41 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:41 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:41 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:41 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:41 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 16:17:42 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:42 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:42 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:43 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:46 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 16:17:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:47 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:48 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:49 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:50 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:51 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:51 2005] [error] [client 212.45.53.176] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 16:17:52 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:53 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:54 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:55 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:56 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:57 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:58 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:17:59 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:00 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:01 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:02 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:03 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:04 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:05 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:06 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:07 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:08 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:09 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:10 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:11 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:12 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:13 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:14 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:15 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:16 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:18:17 2005] [notice] mod_jk2 Shutting down
+[Thu Nov 03 16:47:57 2005] [error] [client 67.172.31.13] Directory index forbidden by rule: /var/www/html/
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Thu Nov 03 20:58:01 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:01 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Thu Nov 03 20:58:04 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:05 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+[Thu Nov 03 20:58:07 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:07 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:07 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:07 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:07 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:09 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:10 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlrpc
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:12 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:13 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:15 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:15 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:16 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:17 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/xmlsrv
+[Thu Nov 03 20:58:17 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:20 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:20 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:20 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:20 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:21 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:21 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:22 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:23 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:25 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:26 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:26 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:26 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:26 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:26 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:27 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/drupal
+[Thu Nov 03 20:58:28 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:31 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:31 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:31 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:31 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:31 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:31 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:33 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:36 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/community
+[Thu Nov 03 20:58:36 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:36 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:36 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:36 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:36 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:37 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:41 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:41 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:41 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:41 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:41 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:41 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:42 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:44 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:46 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blogs
+[Thu Nov 03 20:58:46 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:47 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:47 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:47 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:47 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:48 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:50 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:51 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blog
+[Thu Nov 03 20:58:52 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:52 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:52 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:55 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:58:55 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:58:55 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:58:55 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:57 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/blogtest
+[Thu Nov 03 20:58:57 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:58:59 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:59:00 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:59:00 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:00 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:00 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:00 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:59:02 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/b2
+[Thu Nov 03 20:59:02 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:05 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:05 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:05 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:06 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:06 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:07 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/b2evo
+[Thu Nov 03 20:59:08 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:10 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:10 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:11 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:11 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:11 2005] [error] [client 198.54.202.234] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:12 2005] [error] [client 198.54.202.210] File does not exist: /var/www/html/wordpress
+[Thu Nov 03 20:59:15 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:16 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:16 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:16 2005] [error] [client 196.25.255.210] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 20:59:18 2005] [error] [client 198.54.202.226] File does not exist: /var/www/html/phpgroupware
+[Thu Nov 03 21:21:21 2005] [error] [client 203.186.238.176] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 21:53:35 2005] [error] [client 61.10.7.173] Directory index forbidden by rule: /var/www/html/
+[Thu Nov 03 22:19:13 2005] [error] [client 61.30.137.198] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 00:44:27 2005] [error] [client 211.223.10.183] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 02:43:28 2005] [error] [client 61.10.7.124] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 05:09:48 2005] [error] [client 68.236.170.254] File does not exist: /var/www/html/scripts/..%5c%5c..
+[Fri Nov 04 05:55:35 2005] [error] [client 60.210.40.34] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 08:00:41 2005] [error] [client 211.20.38.189] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 08:46:20 2005] [error] [client 67.164.93.203] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 09:56:38 2005] [error] [client 64.168.33.52] File does not exist: /var/www/html/scripts/..%5c%5c..
+[Fri Nov 04 10:29:27 2005] [error] [client 64.236.128.14] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 11:18:11 2005] [error] [client 70.251.210.16] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 12:20:51 2005] [error] [client 68.90.224.52] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 13:37:42 2005] [error] [client 61.55.133.60] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 13:54:12 2005] [error] [client 69.38.65.93] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 15:50:41 2005] [error] [client 61.236.71.229] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 16:03:54 2005] [error] [client 66.215.216.16] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 18:41:41 2005] [error] [client 211.209.44.77] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 19:50:44 2005] [error] [client 61.180.66.157] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 21:39:36 2005] [error] [client 61.146.41.126] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 22:59:01 2005] [error] [client 221.13.181.8] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 23:46:21 2005] [error] [client 207.216.192.105] Directory index forbidden by rule: /var/www/html/
+[Fri Nov 04 23:56:56 2005] [error] [client 218.107.250.162] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 01:50:42 2005] [error] [client 24.70.28.41] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 01:57:42 2005] [error] [client 205.246.11.130] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 02:36:41 2005] [error] [client 203.186.238.188] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 02:55:47 2005] [error] [client 12.41.68.150] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 03:07:08 2005] [error] [client 218.6.144.64] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 04:01:45 2005] [error] [client 68.186.185.2] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 06:26:43 2005] [error] [client 211.21.77.62] File does not exist: /var/www/html/awstats/awstats.pl
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:30:54 2005] [error] [client 207.148.210.30] File does not exist: /var/www/html/phpmyadmin
+[Sat Nov 05 06:56:49 2005] [error] [client 65.186.80.77] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 09:22:20 2005] [error] [client 206.248.69.78] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 09:54:28 2005] [error] [client 203.218.8.60] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 11:56:35 2005] [error] [client 68.143.97.146] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 13:35:59 2005] [error] [client 218.56.152.50] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 14:49:29 2005] [error] [client 71.80.182.119] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 16:22:19 2005] [error] [client 216.61.204.185] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 17:38:17 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/root.exe
+[Sat Nov 05 17:38:18 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/MSADC
+[Sat Nov 05 17:38:18 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/c
+[Sat Nov 05 17:38:18 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/d
+[Sat Nov 05 17:38:19 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..%5c..
+[Sat Nov 05 17:38:19 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/_vti_bin
+[Sat Nov 05 17:38:20 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/_mem_bin
+[Sat Nov 05 17:38:20 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/msadc
+[Sat Nov 05 17:38:20 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..\xc1\x1c..
+[Sat Nov 05 17:38:21 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..\xc0\xaf..
+[Sat Nov 05 17:38:21 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..\xc1\x9c..
+[Sat Nov 05 17:38:23 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..%5c..
+[Sat Nov 05 17:38:23 2005] [error] [client 201.138.209.64] File does not exist: /var/www/html/scripts/..%2f..
+[Sat Nov 05 18:06:12 2005] [error] [client 69.251.145.174] Directory index forbidden by rule: /var/www/html/
+[Sat Nov 05 22:10:10 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/oscommerce
+[Sat Nov 05 22:10:10 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/osc
+[Sat Nov 05 22:10:11 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/osCommerce
+[Sat Nov 05 22:10:11 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/catalog
+[Sat Nov 05 22:10:12 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/admin
+[Sat Nov 05 22:10:12 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/store
+[Sat Nov 05 22:10:13 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/onlineshop
+[Sat Nov 05 22:10:14 2005] [error] [client 211.233.62.80] File does not exist: /var/www/html/shop
+[Sat Nov 05 23:05:58 2005] [error] [client 70.66.203.111] Directory index forbidden by rule: /var/www/html/
+[Sun Nov 06 02:15:31 2005] [error] [client 221.2.164.7] Directory index forbidden by rule: /var/www/html/
+[Sun Nov 06 03:46:59 2005] [error] [client 70.184.219.98] Directory index forbidden by rule: /var/www/html/
+[Sun Nov 06 04:06:00 2005] [notice] Graceful restart requested, doing restart
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:00 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:01 2005] [notice] mod_jk2 Shutting down
+[Sun Nov 06 04:06:01 2005] [notice] mod_jk2 Shutting down
