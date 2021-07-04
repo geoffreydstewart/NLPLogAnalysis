@@ -23,7 +23,7 @@ To find the top 10 6-grams in a set of Apache Web Server error logs the followin
 The application also supports Apache Web Server access logs. To find the most common 5-grams in a set of Apache access logs the following command would be used:
 
 ```
-./get_log_insights.py -t apache-error -n 6 -i ../logSamples/access2/
+./get_log_insights.py -t apache-access -n 5 -i ../logSamples/access2/
 
 ```
 
